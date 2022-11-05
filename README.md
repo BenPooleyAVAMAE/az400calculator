@@ -15,3 +15,5 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
 [![Build Status](https://dev.azure.com/bpooley-devops-training/Configuring%20Pipelines%20as%20Code%20with%20YAML/_apis/build/status/BenPooleyAVAMAE.az400calculator?branchName=master)](https://dev.azure.com/bpooley-devops-training/Configuring%20Pipelines%20as%20Code%20with%20YAML/_build/latest?definitionId=24&branchName=master)
+
+<img src="https://dev.azure.com/bpooley-devops-training/Configuring%20Pipelines%20as%20Code%20with%20YAML/_apis/build/status/BenPooleyAVAMAE.az400calculator?branchName=master"/>
